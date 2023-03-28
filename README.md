@@ -5,6 +5,6 @@ This project is an analysis of the factors that contribute to heart failure. It 
 ## Preprocessing Data
 Throughout my project, I utilized both Excel and PowerPoint to analyze and present my findings.
 
-#### Charts
+### Visualization
 Throughout the project, I have incorporated pie charts and bar charts to visually represent and analyze the data.
 
