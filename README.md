@@ -7,4 +7,7 @@ Throughout my project, I utilized both Excel and PowerPoint to analyze and prese
 
 ### Visualization
 Throughout the project, I have incorporated pie charts and bar charts to visually represent and analyze the data.
+.
+.
 
+<img src = "https://github.com/Gulberinheja/Heart-Failure---Excel-Project/blob/main/p1.png" />
