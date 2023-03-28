@@ -24,9 +24,26 @@ Throughout the project, I have incorporated pie charts and bar charts to visuall
 
 <img src = "https://github.com/Gulberinheja/Heart-Failure---Excel-Project/blob/main/p4.png" />
 
+#### .
+
 <img src = "https://github.com/Gulberinheja/Heart-Failure---Excel-Project/blob/main/p5.png" />
+
+#### .
+
 <img src = "https://github.com/Gulberinheja/Heart-Failure---Excel-Project/blob/main/p6.png" />
+
+#### .
+
 <img src = "https://github.com/Gulberinheja/Heart-Failure---Excel-Project/blob/main/p7.png" />
+
+#### .
+
 <img src = "https://github.com/Gulberinheja/Heart-Failure---Excel-Project/blob/main/p8.png" />
+
+#### .
+
 <img src = "https://github.com/Gulberinheja/Heart-Failure---Excel-Project/blob/main/p9.png" />
+
+#### .
+
 <img src = "https://github.com/Gulberinheja/Heart-Failure---Excel-Project/blob/main/p10.png" />
